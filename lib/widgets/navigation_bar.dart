@@ -15,7 +15,7 @@ class NavigationBar extends StatelessWidget {
       currentIndex: index,
       items: <CustomBottomNavigationBarItem>[
         CustomBottomNavigationBarItem(
-          icon: Icon(Icons.outlined_flag),
+          icon: Icon(Icons.graphic_eq),
           title: "Home",
         ),
         // CustomBottomNavigationBarItem(
